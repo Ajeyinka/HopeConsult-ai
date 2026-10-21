@@ -243,6 +243,10 @@ body:not(:has(.home-hero)) .site-header {
   padding: 1.5rem 0;
 }
 
+.dropdown-toggle span {
+  font-weight: 700;
+}
+
 .dropdown-menu {
   position: absolute;
   top: calc(100% - 0.4rem);
